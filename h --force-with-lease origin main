@@ -1,0 +1,10 @@
+* [33m3821f47[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Fix screenshot filenames
+* [33m39bdbd9[m Move screenshots to root screenshots folder
+* [33m07622d6[m Add screenshots
+* [33mbf2fbf6[m Remove old screenshots
+* [33m127095a[m Remove old screenshots
+[31m|[m * [33ma1631df[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Create screenshots
+[31m|[m * [33m131f56b[m Delete Notes UI.png
+[31m|[m * [33m36a4361[m Delete Darktheme.png
+[31m|[m * [33me0d364b[m Delete add_note.png
+[31m|[m * [33mcf4c69c[m Delete home_empty.png
