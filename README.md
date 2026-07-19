@@ -1,5 +1,9 @@
 
-<h1 align="center">📝 Notes App</h1>
+<h1 align="center">📝
+NotesFlow
+  
+Offline Smart Notes built with Flutter
+</h1>
 
 <p align="center">
 <b>A modern offline-first Notes application built with Flutter.</b><br>
@@ -63,7 +67,7 @@ Built with an offline-first approach, the project focuses on clean architecture,
 
 | Empty State | Notes Added |
 |:-----------:|:-----------:|
-| <img src="screenshots/home_empty.png" width="250"> | <img src="screenshots/home_notes.png" width="250"> |
+| <img src="screenshots/home_notes.png" width="250"> | <img src="screenshots/home_empty.png" width="250">
 
 ---
 
